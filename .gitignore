@@ -1,0 +1,13 @@
+# Dependencias
+node_modules
+
+# Archivos de construcción de Next.js
+.next
+out
+
+# Variables de entorno (¡Muy importante por seguridad!)
+.env
+.env*.local
+
+# Vercel
+.vercel
